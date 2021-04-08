@@ -61,4 +61,6 @@ void main(){
         printf("\n");
     }
 }
-//Input: 4 0 0 2 1 1 2 2 5 3 3 6 4
+/*Example Input: 
+    4 0 0 2 1 1 2 2 5 3 3 6 4
+*/
